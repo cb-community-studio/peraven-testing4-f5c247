@@ -1,0 +1,11 @@
+[
+    {
+        "itemText": "Text",
+        "itemInput": "Input",
+        "itemIcon": "Icon",
+        "itemImage": "Image",
+        "itemAvatar": "Avatar",
+        "itemChip": "Chip",
+        "itemTag": "Tag"
+    }
+]
